@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Casper Child
+ Theme URI:    http://example.com/casper-master-child/
+ Description:  Energie Nul Huis Child Theme - Energie Nul Huis
+ Author:       Rutger Kroon
+ Author URI:   http://rutgerkroon.nl
+ Template:     casper-master
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  casper-master-child
+*/
+@import url("../../casper-master/style.css");
+
+#masthead {
+  background-image: url(img/homepage-1024.jpg) !important;
+}
+h1.title-home {
+  color: #fafafa;
+  font-size: 400%;
+  font-weight: bold;
+}

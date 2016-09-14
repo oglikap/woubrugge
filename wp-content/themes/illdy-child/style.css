@@ -1,0 +1,22 @@
+/*
+ Theme Name:   Illdy Child
+ Theme URI:    http://example.com/illdy-child/
+ Description:  Energie Nul Huis Child Theme - Energie Nul Huis
+ Author:       Rutger Kroon
+ Author URI:   http://rutgerkroon.nl
+ Template:     illdy
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  illdy-child
+*/
+@import url("../illdy/style.css");
+@import url(../illdy/layout/css/main.min.css);
+
+#header {
+  background-image: url(img/homepage-1024.jpg) !important;
+}
+h1.title-home {
+  color: #fafafa;
+  font-size: 400%;
+  font-weight: bold;
+}

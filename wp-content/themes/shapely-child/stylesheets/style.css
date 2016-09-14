@@ -1,0 +1,14 @@
+/*
+ Theme Name:   Shapely Child
+ Theme URI:    http://example.com/shapely-child/
+ Description:  Energie Nul Huis Child Theme - Energie Nul Huis
+ Author:       Rutger Kroon
+ Author URI:   http://rutgerkroon.nl
+ Template:     shapely
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  shapely-child
+*/
+@import url(../../shapely/style.css);
+
+/*# sourceMappingURL=style.css.map */
